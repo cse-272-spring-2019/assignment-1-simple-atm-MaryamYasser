@@ -5,6 +5,7 @@
       <mapping pattern="Drivers" type="PLAIN_TEXT" />
       <mapping pattern="UserTrips" type="PLAIN_TEXT" />
       <mapping pattern="Trips" type="PLAIN_TEXT" />
+      <mapping pattern="InternationalTrips" type="PLAIN_TEXT" />
       <mapping pattern="DriverTrips" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
