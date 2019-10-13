@@ -1,34 +1,12 @@
 <application>
   <component name="libraryTable">
     <library name="appframework">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/appframework.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/beansbinding.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/imgscalr.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/intellij_forms_rt.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/JFormDesigner-Idea.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/jgoodies-common.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/jgoodies-forms.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/miglayout-core.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/miglayout-ideutil.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/miglayout-swing.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/swing-layout.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/JFormDesigner/lib/TableLayout.jar!/" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="javafx11">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx-swt.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.base.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.controls.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.fxml.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.graphics.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.media.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.swing.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib/javafx.web.jar!/" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
